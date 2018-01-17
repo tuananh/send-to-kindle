@@ -1,0 +1,8 @@
+{
+  "name": "send-to-kindle",
+  "environment": {
+    "MAILGUN_APIKEY": "<your-mailgun-apikey>",
+    "MAILGUN_BASE_URL": "<your-mailgun-base-url>",
+    "MERCURY_APIKEY": "<your-mercury-apikey>"
+  }
+}
